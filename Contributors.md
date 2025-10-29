@@ -1,5 +1,6 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1099cb7c-b006-4d3a-b400-fe24181290e0" /># Contributors
 
+- [Asish pradhan](https://github.com/asishpradhan01)
 - [Baljit Panda](https://github.com/velixcode)
 - [sliec](https://github.com/sliec)
 - [Tosh Gitonga](https://github.com/ToshGitonga0)
